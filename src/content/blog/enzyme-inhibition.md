@@ -1,9 +1,9 @@
 ---
-title: 'Enzyme inhibition: how tiny molecules switch off the machinery of life'
-description: 'How enzymes get blocked, why it matters, and how medicines, poisons and our own cells use it.'
-pubDate: '2026-09-30'
+title: "Enzyme inhibition: how tiny molecules switch off the machinery of life"
+description: How enzymes get blocked, why it matters, and how medicines, poisons
+  and our own cells use it. LEBRON LEBRON LEBRON
+pubDate: 2026-09-30
 ---
-
 Almost everything happening inside you right now depends on enzymes. Digesting your last meal, copying your DNA, releasing energy from glucose: each step is carried out by an enzyme, a protein that speeds up a chemical reaction without being used up.
 
 Enzymes are incredibly fast. Some can process thousands of molecules every second. But that raises an important question: how do you slow one down or switch it off? The answer is **enzyme inhibition**, and it turns out to be behind everything from painkillers to poisons.
@@ -69,3 +69,4 @@ Designing a new drug often starts with a simple question: which enzyme do we nee
 - **Non-competitive inhibitors** bind elsewhere and change the active site's shape. More substrate can't overcome them.
 - Some inhibitors are **reversible**, others **irreversible**.
 - Cells use **end-product inhibition** to control their own chemistry.
+
